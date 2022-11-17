@@ -1,3 +1,5 @@
 Whatsapp development
 1.login domain
-2.
+2.making Groups
+3.Adding Contact 
+4.profile Craetion
